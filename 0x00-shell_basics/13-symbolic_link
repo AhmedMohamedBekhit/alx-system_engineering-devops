@@ -1,0 +1,2 @@
+#!/bin/bash
+alias -p __ls__ = /bin/ls
